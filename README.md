@@ -2,6 +2,13 @@
 
 Pre-built static libraries for [mosh (mobile shell)](https://mosh.org/) and all its dependencies, ready for Android NDK integration.
 
+## Download
+
+📦 **[Download from GitHub Releases](https://github.com/rjyo/mosh-android/releases/latest)**
+
+- `mosh-android-libs-v1.0.0.tar.gz` - For Linux/macOS
+- `mosh-android-libs-v1.0.0.zip` - For Windows
+
 ## Supported Architectures
 
 | Architecture | Description |

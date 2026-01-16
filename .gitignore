@@ -3,6 +3,13 @@ build/
 output/
 src/
 
+# Built libraries (download from GitHub Releases instead)
+android-libs/
+
+# Release archives
+*.tar.gz
+*.zip
+
 # OS files
 .DS_Store
 *.swp
