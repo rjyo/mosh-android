@@ -1,0 +1,16 @@
+# Build intermediates
+build/
+output/
+src/
+
+# OS files
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+.vscode/
+*.xcworkspace
+*.xcuserdata
